@@ -1,0 +1,1 @@
+teikums=(int(input))
