@@ -1,0 +1,5 @@
+teikums = input()
+saraksts = teikums.split()
+saraksts.insert(2, "Sveiks!")
+saraksts.sort(reverse=True)
+print(saraksts)
